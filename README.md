@@ -11,7 +11,7 @@
 
 
 
-![preview](./.github/readmeConvidados.png)
+![preview](./.github/readmeConvidados.PNG)
 
 
 ## Tecnologias
