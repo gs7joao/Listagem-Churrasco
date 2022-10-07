@@ -2,16 +2,18 @@
 
 > Projeto construído para estudos 🚀
 
-**Construindo Projeto Listagem de Presença e Consumindo API GitHub**
+**Construindo Projeto Listagem de Presença Churrasco e Consumindo API GitHub**
 
 
 - Baixe o projeto
+
 - Execute $ npm install dentro do diretório do projeto para baixar a pasta de *node_modules*
+
 - Execute $ npm run dev após baixar a pasta *node_modules*
 
 
 
-![preview](./.github/readmeConvidados.PNG)
+![preview](./.github/readmeConvidados.png)
 
 
 ## Tecnologias
