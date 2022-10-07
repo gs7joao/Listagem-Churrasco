@@ -5,9 +5,10 @@ import { Card } from '../../components/Card'
 
 export function Home() {
   //Utilizando estado
-  const [studentName, setStudentName] = useState('');
-  const [students, setStudents] = useState([]);
-  const [user, setUser] = useState({name: '', avatar: ''});
+  const [studentName, setStudentName] = useState(''); //Declarando useState para setar o convidado cadastrado
+  const [students, setStudents] = useState([]); //Declarando useState para manipular os convidados cadastrados
+  const [user, setUser] = useState({name: '', avatar: ''}); //Declarando useState para manipular user Github
+
   // Criando function com objeto sempre que estanciada, vai criar e setar no state setStudentName
   function hadleAddStudent() {
     const newStudent = {
